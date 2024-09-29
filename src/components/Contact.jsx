@@ -37,15 +37,15 @@ const Contact = () => {
     setLoading(true)
 
     emailjs.send(
-      "service_ul9ypgb",
-      "template_onwy1ut",
+      "service_igzxshn",
+      "template_tgf68fa",
       {
         from_name: form.name,
         to_name: 'Narayan',
         from_email: form.email,
         to_email: "yannar469@gmail.com",
       },
-      "Oh1uZrTMaQz7fQxc0"
+      "ScZ1YXynmN6sIRFK5"
     )
     .then(() => {
       setLoading(false)
