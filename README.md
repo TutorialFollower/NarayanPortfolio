@@ -22,8 +22,8 @@ Then open up your terminal and run the commands in the respective order:
 ```     
 To edit any CSS styles open the style.css file located in the src folder and edit/add styles to your liking.
 
-###Visit the Site Here: [NarayanPortfolio](https://narayanworkportfolio.netlify.app)
+# Visit the Site Here: [NarayanPortfolio](https://narayanworkportfolio.netlify.app)
 
---Thank you to JS mastery
+- Thank you to JS mastery
 
---Happy coding
+- Happy coding
