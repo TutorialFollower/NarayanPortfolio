@@ -1,15 +1,29 @@
-# React + Vite
+# Three JS Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Version: 1.0.0**
 
-Currently, two official plugins are available:
+A website I made with Three JS and inspiration from the JS mastery portfolio. It uses React, Three.js, and tailwind css.
+It has mobile support and fits on all screens and has a dynamic contact form that uses EmailJS to send and receive emails.
+Uses framer motion to animate items like the timeline and the cards which also use react tilt.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+## License and Copyright
+
+@Tutorial follwer all rights reserved.
+---
 
 # To use this repository:
-  1) Clone the repository
-  2) run "npm -i"
-  3) ng serve
-     
-- Happy coding!
+
+First clone this repository
+Then open up your terminal and run the commands in the respective order:
+```
+   npm -i
+   ng serve
+```     
+To edit any CSS styles open the style.css file located in the src folder and edit/add styles to your liking.
+
+#Visit the Site Here: [NarayanPortfolio](https://narayanworkportfolio.netlify.app)
+
+-Thank you to JS mastery
+
+-Happy coding
