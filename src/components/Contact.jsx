@@ -123,7 +123,6 @@ const Contact = () => {
           </button>
 
         </form>
-          <p className=' mt-3 text-secondary'>For a faster response contact me through my email: yannar469@gmail.com</p>
       </motion.div>
 
       <motion.div
